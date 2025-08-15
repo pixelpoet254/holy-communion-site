@@ -1,0 +1,35 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #fdf6f0;
+  color: #3a2c2c;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #e8d8c3;
+  padding: 2em;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 1em;
+  color: #5a3e36;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  padding: 2em;
+}
+
+section {
+  margin-bottom: 2em;
+}
+
+footer {
+  background-color: #e8d8c3;
+  text-align: center;
+  padding: 1em;
+  font-size: 0.9em;
+}
